@@ -22,7 +22,7 @@ a {
     text-decoration: none;
     color: white;
     padding: 10px 30px;
-    background-color: #21db9d;
+    background-color: #5261DE;
     border-radius: 20px;
     transition: .3s;
 }
@@ -31,7 +31,7 @@ a:hover {
     transform: translate(0, -2px);
     color: white;
     border-radius: 20px;
-    background: #21db9d;
+    background: #5261DE;
     box-shadow: 10px 10px 30px #bebebe, -10px -10px 30px #ffffff;
 }
 
@@ -70,7 +70,7 @@ h2 {
     outline: none;
     border-style: none;
     background-color: rgba(0, 0, 0, 0);
-    border-bottom: 1px #21db9d solid;
+    border-bottom: 1px #5261DE solid;
 }
 
 .cargando {
